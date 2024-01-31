@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name         Joseph's Autocomplete Enhancer
 // @namespace    http://tampermonkey.net/
-// @version      1.0.1
+// @version      1.0.2
 // @description  Modify autocomplete attributes on specified pages and elements
 // @author       Joseph Vargas
+// @downloadURL  https://github.com/JosephTico/userscripts/raw/master/autocomplete-enhancer.user.js
+// @updateURL    https://github.com/JosephTico/userscripts/raw/master/autocomplete-enhancer.user.js
 // @match        *://*/*
 // @grant        none
 // @run-at       document-start

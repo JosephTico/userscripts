@@ -3,8 +3,10 @@
 // @namespace   Violentmonkey Scripts
 // @include     http*://*.nacion.com/*story/*
 // @include     http*://*.elfinancierocr.com/*story/*
+// @downloadURL https://github.com/JosephTico/userscripts/raw/master/nacion.user.js
+// @updateURL   https://github.com/JosephTico/userscripts/raw/master/nacion.user.js
 // @grant       none
-// @version     1.0
+// @version     1.0.1
 // @author      JosephTico
 // @description 11/28/2022, 4:32:25 PM
 // ==/UserScript==

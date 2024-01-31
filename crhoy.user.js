@@ -3,8 +3,10 @@
 // @namespace   Violentmonkey Scripts
 // @match        *://www.crhoy.com/site/generators/video/native/player.php*
 // @match        *://crhoy.com/site/generators/video/native/player.php*
+// @downloadURL https://github.com/JosephTico/userscripts/raw/master/crhoy.user.js
+// @updateURL   https://github.com/JosephTico/userscripts/raw/master/crhoy.user.js
 // @grant       none
-// @version     1.0
+// @version     1.0.1
 // @author      JosephTico
 // @description 04/17/2023, 4:32:25 PM
 // ==/UserScript==
