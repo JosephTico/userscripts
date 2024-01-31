@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Joseph's Autocomplete Enhancer
 // @namespace    http://tampermonkey.net/
-// @version      1.0.4
+// @version      1.0.5
 // @description  Modify autocomplete attributes on specified pages and elements
 // @author       Joseph Vargas
 // @downloadURL  https://github.com/JosephTico/userscripts/raw/master/autocomplete-enhancer.user.js
@@ -44,5 +44,5 @@
     const autocompleteValue = 'username';
     
     // Run the function after the DOM is fully loaded
-     modifyAutocomplete(domain, itemSelector, autocompleteValue));
+     modifyAutocomplete(domain, itemSelector, autocompleteValue);
 })();
